@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Users>
+    <User id="1">
+        <name>Ivan</name>
+        <lastname>Ivanov</lastname>
+        <email>wefwdcswd@gmail.gom</email>
+        <roles>
+            <role>USER</role>
+            <role>ADMIN</role>
+        </roles>
+        <numbers>
+            <number>+354525234</number>
+            <number>+f34234</number>
+            <number>+234234234</number>
+        </numbers>
+    </User>
+    <User id="2">
+        <name>Misha</name>
+        <lastname>sitsko</lastname>
+        <email>sitsko@gmail.gom</email>
+        <roles>
+            <role>USER</role>
+            <role>CUSTOMER</role>
+        </roles>
+        <numbers>
+            <number>+275981292</number>
+            <number>+353281292</number>
+        </numbers>
+    </User>
+    <User id="3">
+        <name>Katrin</name>
+        <lastname>Rinkevich</lastname>
+        <email>kate@mail.com</email>
+        <roles>
+            
+            
+        <role>375296575456</role><role>375334565786</role></roles>
+        <numbers>
+            
+            
+            
+        <number>375296575456</number><number>375334565786</number></numbers>
+    </User>
+    <User id="4">
+        <name>Kristina</name>
+        <lastname>Selesnyova</lastname>
+        <email>kriss1212</email>
+        <roles>
+            <role>USER</role>
+            <role>ADMIN</role>
+        </roles>
+        <numbers>
+            <number>+827342834</number>
+            <number>+2378628734</number>
+        </numbers>
+    </User>
+<User id="6"><name>Petr</name><lastname>Petrov</lastname><email>mail@com.ru</email><roles><role>USER</role></roles><numbers><number>375296758768</number></numbers></User></Users>
